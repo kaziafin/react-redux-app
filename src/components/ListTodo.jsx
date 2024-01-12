@@ -8,7 +8,7 @@ function ListTodo() {
 
   return (
     <>
-    <div>Todos</div>
+    
     <ul className="list-none">
         {todos.map((todo) => (
           <li
